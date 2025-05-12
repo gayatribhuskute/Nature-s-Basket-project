@@ -14,7 +14,7 @@ A responsive and visually appealing website for an organic grocery store, built 
 
 - HTML5
 - CSS3
-- (Optional) Bootstrap (if you used it)
+-  Bootstrap 
 
 ## 📁 Project Structure
 
